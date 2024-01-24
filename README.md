@@ -1,6 +1,9 @@
 # 💫 About Me:
-💻 i'm Currently Working on Software Development<br>🌐 Currently diving into the world of .NET full-stack development.<br>✉ Ask me about java, .Net and Web Development<br> 
-👨 How to Reach me : thenamesachin@gmail.com<br>
+
+That's fantastic! Here's a refined professional tagline to highlight your expertise:
+
+💼 DotNet Full Stack Developer.<br>🚀 Crafting Innovative Solutions Across the Entire Software Stack.<br>🌐 Mastery in .NET Technologies for Seamless End-to-End Development<br> 
+📧 Contact: thenamesachin@gmail.com<br>
 
 
 ## 🌐 Socials:
