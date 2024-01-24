@@ -2,7 +2,7 @@
 
 That's fantastic! Here's a refined professional tagline to highlight your expertise:
 
-💼 DotNet Full Stack Developer.<br>🚀 Crafting Innovative Solutions Across the Entire Software Stack.<br>🌐 Mastery in .NET Technologies for Seamless End-to-End Development<br> 
+💼 DotNet Full Stack Developer with Angular Expertise.<br>🚀 Crafting Innovative Solutions Across the Entire Software Stack.<br>🌐 Mastery in .NET Technologies and Seamless Integration with Angular<br> 
 📧 Contact: thenamesachin@gmail.com<br>
 
 
