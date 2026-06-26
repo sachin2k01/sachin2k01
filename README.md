@@ -1,11 +1,20 @@
 # Sachin B N
 
-**.NET Full Stack Developer** · Angular · SQL Server · C#
+**.NET Full Stack Developer** · React · SQL Server · C#
 
 Building robust enterprise systems — from database layer to UI.  
-Currently working on insurance/reinsurance platforms (claims, settlements, policy management).
+Currently developing insurance/reinsurance platforms handling claims, policies, settlements, and bank transfer processing.
 
 📧 thenamesachin@gmail.com
+
+---
+
+## 💼 Experience
+
+- Developing and maintaining **BYAN** — an enterprise insurance/reinsurance platform built on **C# .NET**
+- Designing complex **SQL Server stored procedures** for claims processing, loss ratio analysis, and multi-CTE reporting queries
+- Implementing **SignalR**-based real-time features including bulk upload and matching workflows
+- End-to-end ownership across backend (C# .NET), database (SQL Server), and frontend layers
 
 ---
 
@@ -28,13 +37,11 @@ Currently working on insurance/reinsurance platforms (claims, settlements, polic
 
 **Frameworks & Platforms**  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Databases & Cloud**  
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
 
