@@ -11,7 +11,7 @@ Currently developing insurance/reinsurance platforms handling claims, policies, 
 
 ## 💼 Experience
 
-- Developing and maintaining **BYAN** — an enterprise insurance/reinsurance platform built on **C# .NET**
+- Developing and maintaining **LIMRA CORE** — an enterprise insurance/reinsurance platform built on **C# .NET**
 - Designing complex **SQL Server stored procedures** for claims processing, loss ratio analysis, and multi-CTE reporting queries
 - Implementing **SignalR**-based real-time features including bulk upload and matching workflows
 - End-to-end ownership across backend (C# .NET), database (SQL Server), and frontend layers
